@@ -43,8 +43,7 @@ To start the application, run:
 ```bash
 streamlit run app.py
 ```
-
-The application will be available at `http://localhost:8501` by default.
+## Live Link : (https://path-generator-mcp.streamlit.app/)
 
 ## Usage
 
